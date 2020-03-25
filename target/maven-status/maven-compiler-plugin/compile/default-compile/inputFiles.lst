@@ -1,0 +1,11 @@
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/services/BcoRipleyService.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/BancoRipleyApplication.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/repository/BcoRipleyRepository.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/entty/CreditoCliente.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/controller/BancoRipleyController.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/controller/util/BancoRipleyControllerUtil.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/repository/impl/BcoRipleyDaoImplement.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/config/HibernateConfiguration.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/model/CreditoClienteDTO.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/services/utils/BcoRipleyServiceUtil.java
+/Users/jark/eclipse-workspace/bripleyrestapi/src/main/java/cl/bancoripley/restapi/repository/dao/BcoRipleyDao.java
