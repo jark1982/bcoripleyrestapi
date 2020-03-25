@@ -30,6 +30,7 @@ public class BcoRipleyService {
 	}
 
 	public CreditoClienteDTO addCreditoCliente(CreditoClienteDTO creditoClienteDTO) {
+		creditoClienteDTO = BcoRipleyServiceUtil.getvalorCuota(creditoClienteDTO);
 		CreditoCliente creditoCliente = BcoRipleyServiceUtil.castCreditoCliente(creditoClienteDTO);
 		creditoCliente = bcoRipleyDao.addCreditoCliente(creditoCliente);
 		return creditoClienteDTO;
