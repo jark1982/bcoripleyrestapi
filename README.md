@@ -1,6 +1,8 @@
 # bcoripleyrestapi
 Para la ejecución exitosa del programa se debe tener una base de datos postgres con el schema postgres tan una tabla con la siguiente estructura:
 
+column          Type
+
  folio          numeric(20,0)
  
  rut            character varying(12)
